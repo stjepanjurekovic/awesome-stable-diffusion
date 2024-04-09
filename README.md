@@ -203,6 +203,7 @@ Tutorials and high quality educational resources
 * [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/) - An illustrated primer on how Stable Diffusion works.
 * [Practical deep learning for coders](https://course.fast.ai/) - high quality course by fast.ai aimed at coders that covers many aspects of deep learning, including stable-diffusion.
 * [Top SD Artists](https://www.urania.ai/top-sd-artists) - Searchable list of artists known by Stable Diffusion with example images.
+* [A Damn Fine Stable Diffusion Book](https://www.manning.com/books/a-damn-fine-stable-diffusion-book) - A book that helps you get amazing results out of Stable Diffusion fast.
 
 
 ### Studies
